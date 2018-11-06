@@ -1,0 +1,14 @@
+.section1{
+  align-items: left;
+  background-color: blue;
+}
+.section2{
+  background-color: rebeccapurple;
+}
+.section3{
+  align-content: right;
+  background-color: red;
+}
+.section4{
+  background-color: seagreen;
+}
