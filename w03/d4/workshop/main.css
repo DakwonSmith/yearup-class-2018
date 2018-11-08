@@ -1,0 +1,19 @@
+html{
+  background: lightblue;
+}
+
+.clickMe{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  right: 50%;
+  bottom: 50%;
+}
+
+button{
+  padding: 8px 29px;
+  border-radius: 33%;
+  background-color: rebeccapurple;
+  text-align: center;
+  display: inline-block;
+}
